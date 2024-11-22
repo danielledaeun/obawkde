@@ -1,0 +1,3 @@
+[submodule "lib/awkde"]
+	path = lib/awkde
+	url = https://github.com/mennthor/awkde.git

@@ -1,0 +1,9 @@
+# .gitignore
+res/
+*.csv
+data/*.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.h5
+*.pkl
